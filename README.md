@@ -41,3 +41,27 @@ This repository contain various package that are used for gaming purpose with it
 - vkd3d-proton -> lib32-vkd3d-proton -> vkd3d-proton-bin
 
 - vkbasalt -> lib32-vkbasalt
+
+# kernel repo
+
+This repository contain various kernel build with custom kernel patches.
+
+### Available packages
+
+##### From XanMod
+
+- linux-xanmod-edge
+
+- linux-xanmod
+
+- linux-xanmod-lts
+
+- linux-xanmod-tt
+
+##### From Zen/Liquorix source
+
+- linux-lqx
+
+- linux-lqx-pds
+
+- linux-lqx-bmq
