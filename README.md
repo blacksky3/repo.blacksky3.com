@@ -16,7 +16,7 @@ This is the home page for repo.blacksky3.com.
 
 This repository contain various package that are used for gaming purpose with it's dependencies packages. All build from source, that means it's a -git package.
 
-## Package build order
+### Package build order
 
 - spirv-headers -> spirv-tools
 
