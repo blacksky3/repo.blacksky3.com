@@ -106,3 +106,6 @@ This repository contain various kernel build with custom kernel patches.
 
 - linux-lts-tt-cfs
 
+## llvm repo
+
+This repository contain all of the LLVM toolchain build from source. That means it's a -git package. It is build against the blacksky3 repo.
