@@ -14,7 +14,7 @@ This is the home page for repo.blacksky3.com.
 
 # blacksky3 repo
 
-This repository contain various package that are used for gaming purpose with it's dependencies packages. All build from source, that means it's a -git package.
+This repository contains various package that are used for gaming purpose with it's dependencies packages. All build from source, that means it's a -git package.
 
 ### Package build order
 
@@ -44,7 +44,7 @@ This repository contain various package that are used for gaming purpose with it
 
 # kernel repo
 
-This repository contain various kernel build with custom kernel patches.
+This repository contains various kernel build with custom kernel patches.
 
 ### Available packages
 
@@ -108,4 +108,4 @@ This repository contain various kernel build with custom kernel patches.
 
 ## llvm repo
 
-This repository contain all of the LLVM toolchain build from source. That means it's a -git package. It is build against the blacksky3 repo.
+This repository contains all of the LLVM toolchain build from source. That means it's a -git package. It is build against the blacksky3 repo. Why so? Because spirv-llvm-translator depends on spirv-headers (git version).
