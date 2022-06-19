@@ -65,3 +65,44 @@ This repository contain various kernel build with custom kernel patches.
 - linux-lqx-pds
 
 - linux-lqx-bmq
+
+##### From Manjaro
+
+- linux515
+
+- linux518
+
+##### From Archlinux
+
+- linux-bore
+
+- linux-tt
+
+- linux-cacule
+
+- linux-cacule-rdb
+
+- linux-pds
+
+- linux-bmq
+
+- linux-rt
+
+- linux-rc
+
+- linux-git
+
+- linux-lts-bore
+
+- linux-lts-pds
+
+- linux-lts-bmq
+
+- linux-lts-cacule
+
+- linux-lts-cacule-rdb
+
+- linux-lts-tt
+
+- linux-lts-tt-cfs
+
