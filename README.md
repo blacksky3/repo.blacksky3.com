@@ -72,6 +72,8 @@ This repository contains various kernel build with custom kernel patches.
 
 - linux518
 
+- linux519
+
 ##### From Archlinux
 
 - linux-bore
